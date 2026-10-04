@@ -2,7 +2,7 @@
 
 NextJs Poetry Showcase Website with Notion as CMS
 
-[![A screenshot of the Orpheus Website](https://github.com/kkrishguptaa/orpheus/raw/main/.github/screenshot.png)](https://poems.krishg.com)
+[![A screenshot of the Orpheus Website](https://github.com/ikrishg/orpheus/raw/main/.github/screenshot.png)](https://poems.krishg.com)
 
 ## 👋 Introduction
 
@@ -45,7 +45,7 @@ The "Category" property exists solely because I write more than just poems in th
 
 This website is hosted on Vercel. If you want to deploy it yourself, you can use this handy button:
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fkkrishguptaa%2Forpheus&env=NOTION_API_KEY,NOTION_DATA_SOURCE_ID&envDescription=Values%20needed%20for%20Notion%20to%20work.&envLink=https%3A%2F%2Fgithub.com%2Fkkrishguptaa%2Forpheus%23environment-variables&project-name=orpheus&repository-name=orpheus&demo-title=Orpheus&demo-description=NextJs%20Poetry%20Showcase%20Website%20with%20Notion%20as%20CMS&demo-url=https%3A%2F%2Fpoems.krishg.com&demo-image=https%3A%2F%2Fgithub.com%2Fkkrishguptaa%2Forpheus%2Fraw%2Fmain%2F.github%2Fscreenshot.png)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fikrishg%2Forpheus&env=NOTION_API_KEY,NOTION_DATA_SOURCE_ID&envDescription=Values%20needed%20for%20Notion%20to%20work.&envLink=https%3A%2F%2Fgithub.com%2Fikrishg%2Forpheus%23environment-variables&project-name=orpheus&repository-name=orpheus&demo-title=Orpheus&demo-description=NextJs%20Poetry%20Showcase%20Website%20with%20Notion%20as%20CMS&demo-url=https%3A%2F%2Fpoems.krishg.com&demo-image=https%3A%2F%2Fgithub.com%2Fikrishg%2Forpheus%2Fraw%2Fmain%2F.github%2Fscreenshot.png)
 
 ## ✌️ Deployment
 
@@ -67,7 +67,7 @@ You can obtain the `NOTION_API_KEY` by creating an integration in Notion and sha
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/kkrishguptaa/orpheus.git
+   git clone https://github.com/ikrishg/orpheus.git
    ```
 2. Navigate to the project directory:
 
